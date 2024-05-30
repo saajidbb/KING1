@@ -2,13 +2,13 @@
 /**
 ░█▀▀█ ░█▀▀█ ─█▀▀█ ░█▀▀█ ─█▀▀█ ▀▀█▀▀ ░█─░█ ── ░█▀▄▀█ ░█▀▀▄ 
 ░█▄▄█ ░█▄▄▀ ░█▄▄█ ░█▀▀▄ ░█▄▄█ ─░█── ░█▀▀█ ▀▀ ░█░█░█ ░█─░█ 
-░█─── ░█─░█ ░█─░█ ░█▄▄█ ░█─░█ ─░█── ░█─░█ ── ░█──░█ ░█▄▄▀
+░█─── ░█─░█ ░█─░█ ░█▄▄█ ░█─░█ ─░█── ░█─░█ ── ░█──░█ ░█▄▄
 
 
 * @project_name PRABATH-MD
-* @authors Prabath Kumara & sachibot-team(Sachintha) <https://github.com/prabathLK>
+* @authors Prabath Kumara & sachibot-team(Sachintha) <https://github.com/saajidbb>
 * @description The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier
-* @link <https://github.com/prabathLK/PRABATH-MD>
+* @link <https://github.com/saajidbb/KING1>
 * @version 2.0.6
 
 © 2023 Prabath Kumara, SACHI-BOT. All rights reserved.
